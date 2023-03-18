@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salah Hambouta ⭐</h1>
 <h3 align="center">Mobile Developer </h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AHMHAM&label=Profile%20views&color=004080&style=flat" alt="AHMHAM" height="30" width="180" />
-	          <!-- <img src="https://img.shields.io/github/followers/AHMHAM?label=Followers&color=600000&style=flat" alt="AHMHAM" height="30" width="100" />-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Salah-Ahmed&label=Profile%20views&color=004080&style=flat" alt="Ahmed-Salah-Ahmed" height="30" width="180" />
+	          <!-- <img src="https://img.shields.io/github/followers/Ahmed-Salah-Ahmed?label=Followers&color=600000&style=flat" alt="Ahmed-Salah-Ahmed" height="30" width="100" />-->
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>
 
 <!--
-- 🕗 [To Do Projects](https://github.com/AHMHAM/projects)
+- 🕗 [To Do Projects](https://github.com/Ahmed-Salah-Ahmed/projects)
 -->
 
 <h3 align="left">📩 Connect with me</h3>
@@ -19,20 +19,20 @@
 -->
 
 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AHMHAM&show_icons=true&locale=en&layout=compact" alt="AHMHAM" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AHMHAM&show_icons=true&locale=en" alt="AHMHAM" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Salah-Ahmed&show_icons=true&locale=en&layout=compact" alt="Ahmed-Salah-Ahmed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Salah-Ahmed&show_icons=true&locale=en" alt="Ahmed-Salah-Ahmed" /></p>
 
 
 
 
 ## 🏆 GitHub Profile Trophies
 <p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AHMHAM&theme=algolia" alt="AHMHAM" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Salah-Ahmed&theme=algolia" alt="Ahmed-Salah-Ahmed" /></a> </p>
 
 
 
 <!--
-**AHMHAM/AHMHAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ahmed-Salah-Ahmed/Ahmed-Salah-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
