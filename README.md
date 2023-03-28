@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salah Hambouta ⭐</h1>
 <h3 align="center">Mobile Developer </h3>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+in+ITI+Mobile-Native-Track" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed-Salah-Ahmed&label=Profile%20views&color=004080&style=flat" alt="Ahmed-Salah-Ahmed" height="30" width="180" />
 	          <!-- <img src="https://img.shields.io/github/followers/Ahmed-Salah-Ahmed?label=Followers&color=600000&style=flat" alt="Ahmed-Salah-Ahmed" height="30" width="100" />-->
 </p>
