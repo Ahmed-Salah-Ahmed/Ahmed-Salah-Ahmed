@@ -16,6 +16,11 @@
 <h3 align="left">📩 Connect with me</h3>
 <a href="https://www.linkedin.com/in/ahmed-salah-ahmed-278364207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Salah%20Hambouta-blue?style=flat-square&logo=linkedin"></a>
 
+
+Mobile Phone: +2 <b>01000704766</b>
+
+Whatsapp: +2 <b>01000704766</b>
+
 <h3 align="left"> 🛠 Languages and Tools</h3>
 
 <p align="left">
