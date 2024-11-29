@@ -35,13 +35,6 @@ Whatsapp: +2 <b>01000704766</b>
 <a href="https://swift.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/></a>
 </p>
 
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Salah-Ahmed&show_icons=true&locale=en&layout=compact" alt="Ahmed-Salah-Ahmed" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Salah-Ahmed&show_icons=true&locale=en" alt="Ahmed-Salah-Ahmed" /></p>
-
-
-
 <h3 align="left">🏆 GitHub Profile Trophies</h3>
 <p align="left">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Salah-Ahmed&theme=algolia" alt="Ahmed-Salah-Ahmed" /></a> </p>
